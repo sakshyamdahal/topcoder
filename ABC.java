@@ -1,3 +1,8 @@
+/*
+ * SRM 648 Division 2 Level 3
+ * ABC
+*/
+
 public class ABC {
 
 	public String createString(int N, int K)

@@ -1,3 +1,9 @@
+/*
+ * SRM 646 Division 2 Level 1
+ * TheConsecutiveIntegerDivTwo
+ * @author: Sakshyam Dahal
+ * Apr 16, 2015
+*/
 import java.util.Arrays;
 
 public class TheConsecutiveIntegersDivTwo {
